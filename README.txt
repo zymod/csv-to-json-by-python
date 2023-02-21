@@ -4,7 +4,7 @@ Ten kod konwertuje dane pracowników z pliku csv do pliku json usuwając białe 
 
 Użycie parametru newline='' podczas otwierania pliku gwarantuje niezależność systemową.
 
-Zwykle, w systemach operacyjnych, końce linii są reprezentowane przez znak \n (linia nowa) w plikach tekstowych.
+Zwykle, w systemach operacyjnych, końce linii są reprezentowane przez znak nowej lini '\n' w plikach tekstowych.
 
 Jednak na niektórych platformach, np. w systemie Windows, standardowe końce linii są reprezentowane przez sekwencję \r\n 
 
